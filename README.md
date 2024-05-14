@@ -1,5 +1,8 @@
-### Hi there 👋
-
+HELLO GEEKS,
+COMPETITIVE PROGRAMMER 
+INTERESTED IN ARTIFICIAL INTELLIGENCE
+LOVES MAKING REAL LIFE PROJECTS
+INNOVATOR
 <!--
 **deshakil/deshakil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

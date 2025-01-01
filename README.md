@@ -1,8 +1,7 @@
-HELLO GEEKS <br>
-COMPETITIVE PROGRAMMER <br>
-INTERESTED IN ARTIFICIAL INTELLIGENCE <br>
-LOVES MAKING REAL LIFE PROJECTS <br>
-INNOVATOR
+Deep Learning <br>
+CS Undergrad<br>
+Experimenting <br>
+
 <!--
 **deshakil/deshakil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

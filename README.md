@@ -11,7 +11,6 @@
   <br>
 
 <div align="center">
-[![Holographic Coder](https://img.shields.io/badge/🚀_Coder-OG-00ffff?style=for-the-badge)](https://github.com/deshakil)
 
 [![Coder](https://raw.githubusercontent.com/deshakil/car-animation/main/coder-hologram.svg)](https://github.com/deshakil)
 </div>

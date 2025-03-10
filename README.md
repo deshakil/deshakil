@@ -7,7 +7,9 @@
 - 💬 Connect me on Linkedin: [LinkedIn](https://www.linkedin.com/in/indeedshakil/)
 - 📫 How to reach me: [GitHub](https://github.com/deshakil)
 
-  [![Hologram Car](https://img.shields.io/badge/3D_Animation-Click_Here-blue?style=for-the-badge&logo=github)](https://github.com/deshakil/car-animation/blob/main/car-animation.html)
+[![Holographic Coder](https://img.shields.io/badge/🚀_Coder-OG-00ffff?style=for-the-badge)](https://github.com/deshakil)
+
+[![Coder](https://raw.githubusercontent.com/deshakil/car-animation/main/coder-hologram.svg)](https://github.com/deshakil)
 
 ## 📊 GitHub Stats
 

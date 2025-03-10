@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 - 🔭 I'm currently working on web development projects
-- 🌱 I'm love Computer Vision, NLP, Transformers 
+- 🌱 I'm in love with Computer Vision, NLP, Transformers 
 - 👯 I'm looking to collaborate on open-source web projects
 - 💬 Connect me on Linkedin: [LinkedIn](https://www.linkedin.com/in/indeedshakil/)
 - 📫 How to reach me: [GitHub](https://github.com/deshakil)

@@ -51,22 +51,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=deshakil&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
 </div>
 
-## 🔥 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/deshakil/CodingTest1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deshakil&repo=CodingTest1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/deshakil/counter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deshakil&repo=counter&theme=tokyonight" />
-  </a>
-</div>
-
-## 📊 Weekly Coding Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deshakil&theme=tokyonight&layout=compact" />
-</div>
 
 ## 🔍 Profile Views
 

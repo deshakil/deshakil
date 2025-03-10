@@ -10,8 +10,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deshakil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshakil&layout=compact&theme=tokyonight" height="170"/>
+  <a href="https://github.com/deshakil">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deshakil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deshakil&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
 <div align="center">

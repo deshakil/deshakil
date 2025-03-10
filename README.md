@@ -1,10 +1,10 @@
-# 👋 Hi there, I'm Shakil Ahmed
+# 👋 Hi there, I'm Shakil 
 
 ## 💫 About Me
 - 🔭 I'm currently working on web development projects
-- 🌱 I'm learning advanced JavaScript frameworks and techniques
+- 🌱 I'm love Computer Vision, NLP, Transformers 
 - 👯 I'm looking to collaborate on open-source web projects
-- 💬 Ask me about JavaScript, React, and web development
+- 💬 Connect me on Linkedin: [LinkedIn](https://linkedin/in/indeedshakil)
 - 📫 How to reach me: [GitHub](https://github.com/deshakil)
 
 ## 📊 GitHub Stats

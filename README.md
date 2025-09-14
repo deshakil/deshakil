@@ -12,14 +12,14 @@
 
 <div align="left">
   
-```javascript
-const shakil = {
-    name: "Shakil Ahmed",
+```python
+shakil = {
+    name: "Shakil",
     role: "Full Stack Developer & AI Enthusiast",
     location: "🌍 Earth",
-    currentFocus: ["Web Development", "Computer Vision", "NLP", "Transformers"],
-    futureGoals: ["Contributing to Open Source", "Building AI Solutions"],
-    funFact: "I debug with console.log and I'm proud of it! 🐛"
+    currentFocus: ["Computer Vision", "NLP", "Transformers"],
+    futureGoals: ["Make Something Very Huge", "Building AI Solutions"],
+    funFact: "I love Python & C++"
 };
 ```
 
